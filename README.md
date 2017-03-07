@@ -1,5 +1,7 @@
 # firebase_compute
 
+[![Build Status](https://travis-ci.org/appsup-dart/firebase_compute.svg?branch=master)](https://travis-ci.org/appsup-dart/firebase_compute)
+
 Library for doing reactive computations with firebase.
 
 
