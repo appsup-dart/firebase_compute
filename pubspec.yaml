@@ -1,6 +1,6 @@
 name: firebase_compute
 description: Library for doing reactive computations with firebase.
-version: 0.1.1
+version: 0.1.2
 author: Rik Bellens <rik.bellens@appsup.be>
 homepage: https://github.com/appsup-dart/firebase_compute
 
