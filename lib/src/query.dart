@@ -49,7 +49,7 @@ abstract class ReactiveDataSnapshot implements ReactiveValue<DataSnapshot> {
 
 }
 
-class _ReactiveSnapshotFromStream extends _ReactiveValueFromStream with ReactiveDataSnapshot {
+class _ReactiveSnapshotFromStream extends _ReactiveValueFromStream<DataSnapshot> with ReactiveDataSnapshot {
   _ReactiveSnapshotFromStream(Stream<DataSnapshot> baseStream) : super(baseStream);
 }
 
