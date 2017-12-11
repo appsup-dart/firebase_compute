@@ -9,6 +9,10 @@ environment:
 
 dependencies:
   firebase_dart: '>=0.7.2 <0.8.0'
+  sortedmap: ^0.2.0
+  stream_transformers: ^0.3.0
+  logging: ^0.11.3
+  collection: ^1.13.0
   intl: '>=0.14.0 <0.15.0'
 
 dev_dependencies:
