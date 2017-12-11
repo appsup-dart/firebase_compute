@@ -5,7 +5,6 @@ library firebase_compute;
 
 import 'package:firebase_dart/firebase_dart.dart';
 import 'package:firebase_dart/src/treestructureddata.dart';
-import 'package:firebase_dart/src/repo.dart';
 import 'package:firebase_dart/src/firebase_impl.dart';
 import 'package:sortedmap/sortedmap.dart';
 import 'package:stream_transformers/stream_transformers.dart';
